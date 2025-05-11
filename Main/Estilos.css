@@ -1,0 +1,20 @@
+body {
+  background-color: #f5f5dc;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+color: brown;
+text-align: center;
+
+
+}
+
+.h1-colonial {
+    color: green;
+}
+
+.texto-destaque {
+  color: #8B4513;
+  font-weight: bold;
+}

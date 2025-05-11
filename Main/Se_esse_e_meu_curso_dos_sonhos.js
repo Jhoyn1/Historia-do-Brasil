@@ -5,7 +5,7 @@
 }
 
 function btnclick() {
-alert ("Paquistão");
+alert ("Australia"); 
 
 }
 
